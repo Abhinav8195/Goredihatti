@@ -26,7 +26,7 @@ const Landing = () => {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
           {[
             {
-              href: "https://www.google.com/search?q=gore+di+hatti&oq=&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIMCAAQRRg5GLEDGIAEMgYIARBFGEAyBggCEEUYOzIKCAMQLhixAxiABDIKCAQQABixAxiABDIKCAUQABixAxiABDIHCAYQABiABDIGCAcQRRg80gEIMTYxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&lqi=Cg1nb3JlIGRpIGhhdHRpSKTOmvqaroCACFobEAAQARACGAAYARgCIg1nb3JlIGRpIGhhdHRpkgEOY2xvdGhpbmdfc3RvcmWqAUUKDS9nLzExZzZybmY5dDQQATIfEAEiG_Nyy7RVsvbuhecJp9vwCZEoAThZjzKW-wxraDIREAIiDWdvcmUgZGkgaGF0dGk#lkt=LocalPoiReviews&rlimm=16372342470552664041&lrd=0x390fc892a59130af:0xe3363ebb8a5537e9,3,,,,",
+              href: "https://www.google.com/maps/place/GORE+DI+HATTI/@30.3801802,76.7629021,17z/data=!4m8!3m7!1s0x390fc892a59130af:0xe3363ebb8a5537e9!8m2!3d30.3801803!4d76.767773!9m1!1b1!16s%2Fg%2F11g6rnf9t4?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
               icon: <FaStar size={22} />,
               text: "Review Us",
               gradient: "from-yellow-500 to-orange-500",
